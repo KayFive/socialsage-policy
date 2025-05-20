@@ -1,0 +1,2 @@
+# socialsage-policy
+Privacy Policy
